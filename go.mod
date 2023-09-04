@@ -5,7 +5,7 @@ go 1.14
 replace golang.org/x/crypto => github.com/ProtonMail/crypto v0.0.0-20201112134528-b4bfec6bba36
 
 require (
-	github.com/ProtonMail/gopenpgp/v2 v2.7.2
+	github.com/ProtonMail/gopenpgp/v2 v2.7.3
 	github.com/hashicorp/go-uuid v1.0.3
 	github.com/kr/pretty v0.3.0 // indirect
 	github.com/rogpeppe/go-internal v1.6.2 // indirect
